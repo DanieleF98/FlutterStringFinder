@@ -1,0 +1,1 @@
+A python script to search all the strings inside of your flutter project and replace them with constants
