@@ -1,1 +1,1 @@
-A python script to search all the strings inside of your flutter project and replace them with constants
+A python script to search all the strings inside of your flutter project and replace them with constants, you just need to insert this python file inside the lib folder of your project and run it to have all your strings printed in the console
